@@ -333,9 +333,9 @@ console.log(ajs.info());
 ### Итого
 
 Вы присылаете три ссылки:
-1. Ссылка на репозиторий с вашим пакетом
-1. Ссылка на репозиторий проект с Node.js
-1. Ссылка на JSBin
+- [X] 1. [Ссылка на репозиторий с вашим пакетом](https://github.com/ilyapatis24/js_packageForNode) 
+- [X] 2. [Ссылка на репозиторий проект с Node.js](https://github.com/ilyapatis24/js_useNodePackage)
+- [X] 3. [Ссылка на JSBin](https://jsbin.com/fexoqayopi/edit?html,console,output)
 
 ### Дополнительно
 
